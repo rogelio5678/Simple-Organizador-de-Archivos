@@ -5,7 +5,7 @@
    * Python 3.x
    
 # Clonar repositorio 
-  git clone https://github.com/rogelio5678/Simple-Organizador-de-Archivos.git
+  git clone https://github.com/rogelio5678/Simple-Organizador-de-Archivos-Linux.git
 
 # Línea de comandos 
   * cd Simple-Organizador-de-Archivos/
