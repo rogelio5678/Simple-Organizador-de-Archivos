@@ -21,7 +21,7 @@
 # Configuración
   * Puede abrir el archivo de configuración ubicado en "config/config.ini" con cualquier editor de texto.
   *  Ejemplo en cli linux
-    - nano config/config.ini
+      -  nano config/config.ini
   * Solo lo hay dos opciones la cuales son "subfolder" por defecto es "False" ("True" para habilitar), esta opcion habilita/deshabilita buscar archivos en los subdirectorios del directorio pasado, la otra opción es "replace" por defecto es False ("True" para habilitar), la cual sirve para saber si remplazar archivos con el mismo nombre o renombrarlos con el mismo nombre simple agregando un distintivo para que el nombre no sea igual.
 
 # Imagenes de Ejemplo
