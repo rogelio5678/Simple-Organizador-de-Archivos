@@ -22,6 +22,14 @@
   *  Ejemplo en cli linux
     - nano config/config.ini
   * Solo lo hay dos opciones la cuales son "subfolder" por defecto es "False" ("True" para habilitar), esta opcion habilita/deshabilita buscar archivos en los subdirectorios del directorio pasado, la otra opción es "replace" por defecto es False ("True" para habilitar), la cual sirve para saber si remplazar archivos con el mismo nombre o renombrarlos con el mismo nombre simple agregando un distintivo para que el nombre no sea igual.
+
+#Imagenes de Ejemplo
+  * Carpetas organizadas por tipo de archivo 
+![image](https://github.com/rogelio5678/Simple-Organizador-de-Archivos/assets/99551747/a02ae5ca-c005-4c25-af61-8075bbaaa263)
+  * Archivos organizados por extensión
+    ![image](https://github.com/rogelio5678/Simple-Organizador-de-Archivos/assets/99551747/d045781b-901b-4eb1-b812-4ce868a6575b)
+
+
   
 
 
