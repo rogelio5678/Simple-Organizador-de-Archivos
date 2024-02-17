@@ -13,6 +13,7 @@
 * Ejemplo:
      - python main.py /user/old_directory/ ~/Documentos/new_directory
 # Interfaz gráfica
+  * cd Simple-Organizador-de-Archivos/
   * Para la interfaz gráfica unicamente ejecute el programa sin argumentos
   * Ejemplo:
     - python main.py
