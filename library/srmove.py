@@ -13,6 +13,7 @@ class srmove:
         self.sub_folder = False
         self.replace = False
         self.read_config()
+        self.create_folder('logs')
         self.file_log = open ("logs/" + str (datetime.datetime.now ()) + ".log", "w")
 
     def read_config(self):
