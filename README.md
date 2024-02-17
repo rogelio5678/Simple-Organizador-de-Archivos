@@ -7,7 +7,7 @@
 # Clonar repositorio 
   git clone https://github.com/rogelio5678/Simple-Organizador-de-Archivos.git
 
-# Línea de comandos Linux
+# Línea de comandos 
   * cd Simple-Organizador-de-Archivos/
   * Para ejecutar el programa simplemente desde linea de comando debe pasar dos parametros uno correspondiente al directorio donde estan los archivos a organizar y otro para el nuevo directorio a donde se moveran los archivos organizados, recuerde pasar la ruta absoluta de la carpeta.
 * Ejemplo:
